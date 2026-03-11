@@ -261,7 +261,7 @@ Technical discussion and architectural walkthrough available upon request.
 ## 🌐 Portfolio
 
 Portfolio Case Study:
-https://mukeshprajapat026.github.io/projects/event-ticket-system.html
+https://mukeshprajapat026.github.io/projects/cold-email-campaign.html
 
 ---
 
