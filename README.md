@@ -217,7 +217,7 @@ Lower bounce rates and improved domain reputation.
 
 ### 1️⃣ Campaign Dashboard  
 _(Example campaign analytics)_  
-!(screenshots/campaign-dashboard.png)
+![Campaign Dashboard](screenshots/campaign-dashboard.png)
 
 ### 2️⃣ Inbox Warm-Up System 
 ![Customer Portal](screenshots/customer-approval.png)
