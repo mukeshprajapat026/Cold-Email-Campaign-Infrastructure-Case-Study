@@ -180,14 +180,14 @@ Lower bounce rates and improved domain reputation.
 
 ## 📊 Campaign Setup Process
 
-1️⃣ Register outreach domain
-2️⃣ Configure SPF, DKIM, DMARC
-3️⃣ Create campaign inboxes
-4️⃣ Connect inboxes to warm-up tools
-5️⃣ Warm-up emails for 3–4 weeks
-6️⃣ Configure campaign sequences
-7️⃣ Launch campaigns gradually
-8️⃣ Monitor performance metrics
+1. Register outreach domain
+2. Configure SPF, DKIM, DMARC
+3. Create campaign inboxes
+4. Connect inboxes to warm-up tools
+5. Warm-up emails for 3–4 weeks
+6. Configure campaign sequences
+7. Launch campaigns gradually
+8. Monitor performance metrics
 
 ---
 
