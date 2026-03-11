@@ -219,46 +219,40 @@ Lower bounce rates and improved domain reputation.
 _(Example campaign analytics)_  
 ![Campaign Dashboard](screenshots/campaign-dashboard.png)
 
-### 2️⃣ Inbox Warm-Up System 
-![Customer Portal](screenshots/customer-approval.png)
-![Customer Portal](screenshots/background-list.png)
-![Customer Portal](screenshots/customer-background-selected.png)
+### 2️⃣ Inbox Warm-Up System
+![Email Warmup System](screenshots/email-warmup-system.png)
 
-### 3️⃣ Cron Automation Engine  
-![Cron System](screenshots/cron-automation.png)
+### 3️⃣ Deliverability Metrics 
+![Email Deliverability Metrics](screenshots/email-deliverability-metrics.png)
 
 ---
 
 ## 📁 Repository Structure (Case Study Only)
 
-This repository contains documentation and screenshots only.
+This repository contains documentation only.
 
 ```
-mypetprints-case-study/
+cold-email-campaign-infrastructure/
 │
 ├── README.md
 └── screenshots/
-    ├── trello-workflow.png
-    ├── customer-approval.png
-    ├── trello-workflow-approved-card.png
-    ├── trello-workflow-card.png
-    ├── background-list.png
-    ├── customer-background-selected.png
-    └── cron-automation.png 
+    ├── campaign-dashboard.png
+    ├── email-warmup-system.png
+    └── email-deliverability-metrics.png
 ```
 
 ---
 
 ## 🔐 Source Code Notice
 
-This is a public case study repository.
+This repository is a public case study.
 
-The production source code is maintained in a private repository due to:
+Production campaign infrastructure and configurations are private due to:
 
 - Client confidentiality
-- Business workflow protection
-- API credential security
-- Production infrastructure sensitivity
+- Email infrastructure security
+- Domain reputation protection
+- Campaign data privacy
 
 Technical discussion and architectural walkthrough available upon request.
 
@@ -266,8 +260,8 @@ Technical discussion and architectural walkthrough available upon request.
 
 ## 🌐 Portfolio
 
-Live Portfolio:  
-https://mukeshprajapat026.github.io/
+Portfolio Case Study:
+https://mukeshprajapat026.github.io/projects/event-ticket-system.html
 
 ---
 
@@ -275,7 +269,8 @@ https://mukeshprajapat026.github.io/
 
 Mukesh Prajapat  
 Full Stack Developer  
-Workflow Automation & eCommerce Systems Specialist  
+Workflow Automation & eCommerce Systems Specialist
+
 
 ---
 
